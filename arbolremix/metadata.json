@@ -1,6 +1,0 @@
-{
-  "name": "Arboleda GIS",
-  "description": "Servicio web full-stack con API REST lista para Render, integración con Supabase y Google Maps para gestionar puntos de arbolado urbano (código de árbol, especie, tarea de riego o poda y coordenadas decimales).",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
